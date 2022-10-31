@@ -1,9 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Hello Microverse Project
+# Project Created a Hello Microverse Project
 
-> Description the project. This project I set up a hello world respository.
+> Description the project. Added the following:
+-Linters
+-Html file
+-gitignore file
+-Styled the headers
+-updated read me
+-created a pull request
 
+Thank you in advance for reviewing my project and for your continous support.
 
 ## Built With html and css
 
